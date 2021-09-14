@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩🏻‍🎓  I’m an MS in Robotics student at Northwestern University
+
+- 🔭  I’m  interested in Sensing, Manipulation, and Soft Robotics
+
+- 📩  Contact me at dhk6869@gmail
+
+- 🌐  Check out more about my work at <a href="https://rubberdk.github.io/" target="_blank">my portfolio</a>
+
+<br> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubberdk&count_private=true&show_icons=true&theme=algolia">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberdk&theme=algolia&layout=compact"> -->
