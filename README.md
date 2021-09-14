@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m  interested in Sensing, Manipulation, and Soft Robotics
 
-- 📩  Contact me at dhk6869@gmail
+- 📫   Contact me at dhk6869@gmail.com
 
 - 🌐  Check out more about my work at <a href="https://rubberdk.github.io/" target="_blank">my portfolio</a>
 
