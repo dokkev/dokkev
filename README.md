@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩🏻‍🎓  I’m an MS in Robotics student at Northwestern University
+- 🎓  I’m an MS in Robotics student at Northwestern University
 
 - 🔭  I’m  interested in Sensing, Manipulation, and Soft Robotics
 
