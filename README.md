@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 📫   Contact me at dhk6869@gmail.com
 
-- 🌐  Check out more about my work at <a href="https://rubberdk.github.io/" target="_blank">my portfolio</a>
+- 🌐  Check out more about my work at <a href="https://dokkev.github.io/" target="_blank">my portfolio</a>
 
 <br> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=rubberdk&count_private=true&show_icons=true&theme=algolia">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberdk&theme=algolia&layout=compact"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=dokkev&count_private=true&show_icons=true&theme=algolia">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokkev&theme=algolia&layout=compact"> -->
