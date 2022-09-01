@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - 🎓  I’m an PhD Student at University of Texas at Austin
 
-- 🔭  I’m  interested in Sensing, Manipulation, and Soft Robotics
+- 🔭  I research Human-Robot Interaction, Robotic Perception, and Path Planning
 
-- 📫   Contact me at dhk6869@gmail.com
+- 📫   Contact me at dongho@utexas.edu
 
 - 🌐  Check out more about my work at <a href="https://dokkev.github.io/" target="_blank">my portfolio</a>
 
