@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓  I’m an PhD Student at University of Texas at Austin
 
-- 🔭  I research Active Sensing and Robot Exploration in Unstructed Enviorment.
+- 🔭  I research Visuo-tactile multimodal sensing for robots
 
 - 📫   Contact me at dongho@utexas.edu
 
