@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓  I’m an PhD Student at University of Texas at Austin
 
-- 🔭  I research Visuo-tactile multimodal sensing for robots
+- 🔭  I research visuotactile multimodal perception for robots
 
 - 📫   Contact me at dongho@utexas.edu
 
