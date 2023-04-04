@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓  I’m an PhD Student at University of Texas at Austin
 
-- 🔭  I research visuotactile multimodal perception for robots
+- 🔭  I research visuohaptic perception for robots
 
 - 📫   Contact me at dongho@utexas.edu
 
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <br> 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dokkev&count_private=true&show_icons=true&theme=algolia"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=dokkev&count_private=true&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokkev&theme=algolia&layout=compact">
