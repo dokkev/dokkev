@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓  I’m an PhD Student at University of Texas at Austin
 
-- 🔭  I research visuohaptic perception for robots
+- 🔭  I research manioulation for robots
 
 - 📫   Contact me at dongho@utexas.edu
 
