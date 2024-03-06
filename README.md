@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓  I’m an PhD Student at University of Texas at Austin
+- 🎓  I’m a PhD Student at the University of Texas at Austin
 
-- 🔭  I research manioulation for robots
+- 🔭  I research manipulation for robots
 
 - 📫   Contact me at dongho@utexas.edu
 
