@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓  I’m a PhD Student at the University of Texas at Austin
 
-- 🔭  I research Design and Control for Robotic Manipulation
+- 🔭  I research Design and Control for Humanoid Robots
 
 - 📫   Contact me at dongho@utexas.edu
 
